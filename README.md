@@ -1,7 +1,7 @@
 # Role-Based Access Control (RBAC) Web Application  :
 This project is a Role-Based Access Control (RBAC) system built using React.js and Tailwind CSS, designed to efficiently manage users and their roles. The application features an intuitive and visually appealing user interface while providing robust functionalities to add, edit, delete, and filter users and their roles.
 
-## Deployed here : [Hosted] (https://11rbac.netlify.app/dashboard )
+## Deployed here : [Hosted](https://11rbac.netlify.app/dashboard )
 ## Features
  ### User Management
 - Add Users: Create new users and assign roles to them.
